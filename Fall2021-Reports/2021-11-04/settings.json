@@ -1,0 +1,18 @@
+{
+    "FeatureExtraction_1": {
+        "describerTypes": [
+            "akaze",
+            "sift"
+        ]
+    },
+    "FeatureMatching_1": {
+        "describerTypes": [
+            "akaze"
+        ]
+    },
+    "StructureFromMotion_1": {
+        "describerTypes": [
+            "akaze"
+        ]
+    }
+}
